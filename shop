@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" href="../css/bootstrap.css">
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/popper.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/comm.css"/>
+    <link rel="stylesheet" href="css/header.css"/>
+    <link rel="stylesheet" href="css/foot.css"/>
+    <link rel="stylesheet" href="css/shopping.css"/>
+</head>
+<body>
+<header>
+    <iframe src="header.html" frameborder="0" scrolling="no" class="my_header"></iframe>
+</header>
+<div class="container">
+    <div>
+        <img src="img/register/index_guild.png" class="w-100" alt=""/>
+    </div>
+    <div class="row">
+        <div class="col-md-9 col-sm-12">
+            <h6 class="mt-4 mb-3">笔记本电脑</h6>
+            <div class="row bg-white w-100" id="hh">
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <a href="#">
+                        <img src="img/product/md/11.jpg" class="w-100" alt=""/>
+                    </a>
+                    <div class="card border-0">
+                        <span class="mb-0">￥6988.00</span>
+                        <p class="text-muted my_small">Apple MacBook Air 13.3英寸笔记本 银色（Core i5 处理器/8GB内存/128GB SSD闪存 MMGF2HC/A）</p>
+                        <div class="d-flex justify-content-around align-items-center">
+                            <button class="text-white font-weight-bold border-0">-</button>
+                            <input class="my_input_width" type="text" value="1"/>
+                            <button class="my_input_width font-weight-bold border-0">+</button>
+                            <a href="" class="btn btn-primary">加入购物车</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <a href="#">
+                        <img src="img/product/md/22.jpg" class="w-100" alt=""/>
+                    </a>
+                    <div class="card border-0">
+                        <span class="mb-0">￥5999.00</span>
+                        <p class="text-muted my_small">戴尔DELL灵越游匣15PR-5645B 15.6英寸游戏笔记本电脑（i5-7300HQ 8G 128GSSD+1T GTX1050 4G独显 FHD）黑</p>
+                        <div class="d-flex justify-content-around align-items-center">
+                            <button class="text-white font-weight-bold border-0">-</button>
+                            <input class="my_input_width" type="text" value="1"/>
+                            <button class="my_input_width font-weight-bold border-0">+</button>
+                            <a href="" class="btn btn-primary">加入购物车</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <a href="#">
+                        <img src="img/product/md/33.jpg" class="w-100" alt=""/>
+                    </a>
+                    <div class="card border-0">
+                        <span class="mb-0">￥6599.00</span>
+                        <p class="text-muted my_small">戴尔DELL灵越燃7000 R1725G 14.0英寸轻薄窄边框笔记本电脑（i7-7500U 8G 128GSSD+1T 940MX 2G独显 FHD）金</p>
+                        <div class="d-flex justify-content-around align-items-center">
+                            <button class="text-white font-weight-bold border-0">-</button>
+                            <input class="my_input_width" type="text" value="1"/>
+                            <button class="my_input_width font-weight-bold border-0">+</button>
+                            <a href="" class="btn btn-primary">加入购物车</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row bg-white  w-100" id="hh">
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <a href="#">
+                        <img src="img/product/md/11.jpg" class="w-100" alt=""/>
+                    </a>
+                    <div class="card border-0">
+                        <span class="mb-0">￥6988.00</span>
+                        <p class="text-muted my_small">Apple MacBook Air 13.3英寸笔记本 银色（Core i5 处理器/8GB内存/128GB SSD闪存 MMGF2HC/A）</p>
+                        <div class="d-flex justify-content-around align-items-center">
+                            <button class="text-white font-weight-bold border-0">-</button>
+                            <input class="my_input_width" type="text" value="1"/>
+                            <button class="my_input_width font-weight-bold border-0">+</button>
+                            <a href="" class="btn btn-primary">加入购物车</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <a href="#">
+                        <img src="img/product/md/22.jpg" class="w-100" alt=""/>
+                    </a>
+                    <div class="card border-0">
+                        <span class="mb-0">￥5999.00</span>
+                        <p class="text-muted my_small">戴尔DELL灵越游匣15PR-5645B 15.6英寸游戏笔记本电脑（i5-7300HQ 8G 128GSSD+1T GTX1050 4G独显 FHD）黑</p>
+                        <div class="d-flex justify-content-around align-items-center">
+                            <button class="text-white font-weight-bold border-0">-</button>
+                            <input class="my_input_width" type="text" value="1"/>
+                            <button class="my_input_width font-weight-bold border-0">+</button>
+                            <a href="" class="btn btn-primary">加入购物车</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <a href="#">
+                        <img src="img/product/md/33.jpg" class="w-100" alt=""/>
+                    </a>
+                    <div class="card border-0">
+                        <span class="mb-0">￥6599.00</span>
+                        <p class="text-muted my_small">戴尔DELL灵越燃7000 R1725G 14.0英寸轻薄窄边框笔记本电脑（i7-7500U 8G 128GSSD+1T 940MX 2G独显 FHD）金</p>
+                        <div class="d-flex justify-content-around align-items-center">
+                            <button class="text-white font-weight-bold border-0">-</button>
+                            <input class="my_input_width" type="text" value="1"/>
+                            <button class="my_input_width font-weight-bold border-0">+</button>
+                            <a href="" class="btn btn-primary">加入购物车</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row bg-white w-100" id="hh">
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <a href="#">
+                        <img src="img/product/md/11.jpg" class="w-100" alt=""/>
+                    </a>
+                    <div class="card border-0">
+                        <span class="mb-0">￥6988.00</span>
+                        <p class="text-muted my_small">Apple MacBook Air 13.3英寸笔记本 银色（Core i5 处理器/8GB内存/128GB SSD闪存 MMGF2HC/A）</p>
+                        <div class="d-flex justify-content-around align-items-center">
+                            <button class="text-white font-weight-bold border-0">-</button>
+                            <input class="my_input_width" type="text" value="1"/>
+                            <button class="my_input_width font-weight-bold border-0">+</button>
+                            <a href="" class="btn btn-primary">加入购物车</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <a href="#">
+                        <img src="img/product/md/22.jpg" class="w-100" alt=""/>
+                    </a>
+                    <div class="card border-0">
+                        <span class="mb-0">￥5999.00</span>
+                        <p class="text-muted my_small">戴尔DELL灵越游匣15PR-5645B 15.6英寸游戏笔记本电脑（i5-7300HQ 8G 128GSSD+1T GTX1050 4G独显 FHD）黑</p>
+                        <div class="d-flex justify-content-around align-items-center">
+                            <button class="text-white font-weight-bold border-0">-</button>
+                            <input class="my_input_width" type="text" value="1"/>
+                            <button class="my_input_width font-weight-bold border-0">+</button>
+                            <a href="" class="btn btn-primary">加入购物车</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <a href="#">
+                        <img src="img/product/md/33.jpg" class="w-100" alt=""/>
+                    </a>
+                    <div class="card border-0">
+                        <span class="mb-0">￥6599.00</span>
+                        <p class="text-muted my_small">戴尔DELL灵越燃7000 R1725G 14.0英寸轻薄窄边框笔记本电脑（i7-7500U 8G 128GSSD+1T 940MX 2G独显 FHD）金</p>
+                        <div class="d-flex justify-content-around align-items-center">
+                            <button class="text-white font-weight-bold border-0">-</button>
+                            <input class="my_input_width" type="text" value="1"/>
+                            <button class="my_input_width font-weight-bold border-0">+</button>
+                            <a href="" class="btn btn-primary">加入购物车</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pf p-2">
+                <ul class="pagination justify-content-end">
+                    <li class="page-item disabled">
+                        <a href="#" class="page-link active">上一页</a></li>
+                    <li class="page-item disabled">
+                        <a href="#" class="page-link">1</a>
+                    </li>
+                    <li class="page-item disabled">
+                        <a href="#" class="page-link">2</a>
+                    </li>
+                    <li class="page-item disabled">
+                        <a href="#" class="page-link">3</a>
+                    </li>
+                    <li class="page-item disabled">
+                        <a href="#" class="page-link">4</a>
+                    </li>
+                    <li class="page-item disabled">
+                        <a href="#" class="page-link">下一页</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-12">
+            <h6 class="mt-4 mb-3">
+                <img src="img/foodstore/foodstore_icon2.png" alt=""/>
+                商家公告</h6>
+            <div class="bg-white text-muted p-3">
+                <p>本店推出全网最低价套餐，保证比其他平台的价格要低！</p>
+                <p>不要葱、姜、蒜等这些忌口暂时无法坐不了，敬请谅解！</p>
+                <p>晚上10点以后订餐需另加送餐费2元！谢谢合作！</p>
+            </div>
+            <div class="rh pt-3">
+                <ul class="list-group">
+                    <li class="list-group-item d-flex listgroup-item justify-content-between pf p-2">购物车
+                        <a href="" class="mr-2 s1">清空</a>
+                    </li>
+                    <li class="list-group-item d-flex list-group-item justify-content-lg-between border-top">
+                        <span class="input-group-text text-truncate bg-white border-0 my_small d-inline-block px-1">戴尔DELL灵越游匣15PR-5645B 15.6英寸游戏笔记本电脑（i5-7300HQ 8G 128GSSD+1T GTX1050 4G独显 FHD）黑</span>
+                        <button class="btn border-0 my_btn_gray text-white text-center p-0">-</button>
+                        <input type="text" class="form-control border-right-0 my_input_w text-dark text-center p-0" value="1"/>
+                        <button class="btn border-0 my_btn_gray text-dark text-center p-0">+</button>
+                        <span class="input-group-text text-dark text-center bg-white">￥5999.00</span>
+                    </li>
+                    <li class="list-group-item d-flex listgroup-item">
+                        <span class="input-group-text text-truncate bg-white border-0 my_small d-inline-block px-1">戴尔DELL灵越游匣15PR-5645B 15.6英寸游戏笔记本电脑（i5-7300HQ 8G 128GSSD+1T GTX1050 4G独显 FHD）黑</span>
+                        <button class="btn border-0 my_btn_gray text-white text-center p-0">-</button>
+                        <input type="text" class="form-control border-right-0 my_input_w text-dark text-center p-0" value="1"/>
+                        <button class="btn border-0 my_btn_gray text-dark text-center p-0">+</button>
+                        <span class="input-group-text text-dark text-center bg-white">￥5999.00</span>
+                    </li>
+                    <li class="list-group-item d-flex listgroup-item bg-dark p-0 justify-content-between">
+                        <h5 class="pt-2 text-white"><img src="img/index/car_2.png" alt=""/>￥99999</h5>
+                        <a href="#" class="bg-primary text-white p-2">去结算</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <iframe src="foot.html" frameborder="0" scrolling="no" class="my_footer"></iframe>
+</footer>
+</body>
+</html>
