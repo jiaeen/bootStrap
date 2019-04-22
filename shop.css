@@ -1,0 +1,76 @@
+.my_header,.my_footer{
+    width:100%;
+}
+/*手写媒体查询，控制iframe的高度*/
+@media screen and (min-width: 992px) {
+    .my_header{
+        height: 10rem;
+    }
+    .my_footer{
+        height:37rem;
+    }
+}
+@media screen and (max-width: 991px) {
+    .my_header{
+        height: 10rem;
+    }
+    .my_footer{
+        height: 50rem;
+    }
+
+}
+
+h6{
+    width:100%
+    height:15px;
+    padding-left: 20px;
+    line-height: 35px;
+    color:#808080;
+    background:-webkit-linear-gradient(top, #f0f0f0 0%,#e0e0e0 100%);
+}
+span{
+    color:#0aa1ed;
+    font-size:18px;
+    font-weight: bold;
+}
+.pagination>.page-item{
+    border-radius: 0.25rem;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.pagination>.page-item>{
+    border-radius: 0.25rem;
+}
+.my_input_width{
+    width:10%;
+    border:0;outline: 0;
+}
+.pf{
+    background:-webkit-linear-gradient(top, #f0f0f0 0%,#e0e0e0 100%);
+
+}
+#hh{
+    padding-left: 0px;
+    margin: 0px;
+}
+.rh{
+    width:100%;
+    color: #b8b8b8;
+    line-height: 35px;
+    font-size: 14px;
+}
+.s1{
+    color: #b8b8b8;
+}
+.input-group-text{width:40%;}
+.my_btn_gray{
+    width:1.5rem;margin-top: 5px;
+    height:1.5rem;
+    background:linear-gradient(to bottom, #f0f0f0,#e0e0e0);
+}
+.my_input_w{
+    width: 2rem;
+}
+.border-top{
+    border-top-style: dashed !important;
+}
