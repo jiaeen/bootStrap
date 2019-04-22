@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" href="../css/bootstrap.css">
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/popper.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/comm.css"/>
+    <link rel="stylesheet" href="css/header.css"/>
+    <link rel="stylesheet" href="css/foot.css"/>
+    <link rel="stylesheet" href="css/bg.css"/>
+</head>
+<body>
+<header>
+    <iframe src="header.html" frameborder="0" scrolling="no" class="my_header"></iframe>
+</header>
+<div class="container">
+    <ul class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="#" class="bg-transparent text-dark font-weight-bold my_small">首页</a>
+        </li>
+        <li class="breadcrumb-item">
+            <a href="#" class="bg-transparent text-dark font-weight-bold my_small">学习用品</a>
+        </li>
+        <li class="breadcrumb-item">
+            <a href="#" class="bg-transparent text-dark font-weight-bold my_small">AppleMacBookAir
+            </a>
+        </li>
+    </ul>
+    <!--<p class="font_small font-weight-bold">首页 > 学习用品 > 笔记本电脑 > AppleMacBookAir</p>-->
+    <div class="row">
+        <div class="col-md-6 col-sm-12">
+            <img src="img/product/md/11.jpg" alt=""/>
+            <div>
+                <ul class="d-flex list-unstyled">
+                    <li class="p-1"><img src="img/product/sm/112.jpg" alt="" class="my_img"/></li>
+                    <li class="p-1"><img src="img/product/sm/112.jpg" alt="" class="my_img"/></li>
+                    <li class="p-1"><img src="img/product/sm/113.jpg" alt="" class="my_img"/></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-6 col-sm-12">
+            <h5 class="font-weight-bold mb-0">Apple MacBook Air 13.3英寸笔记本 银色（Core i5 处理器/8GB内存/128GB SSD闪存 MMGF2HC/A）</h5>
+            <p class="font-weight-bold my_font">5月焕新季，领券买新机！神券满6000减600！一体成型金属机身，纤薄轻巧，长达12小时续航</p>
+            <div class="alert">
+                <p class="text-muted my_font">学员售价：<span class="mb-3 sp">￥6988.00</span></p>
+                <div class="my_font text-muted">服务承诺：*退货补运费 *30天无忧退货 *48小时快速退款 *72小时发货</div>
+            </div>
+            <p class="text-muted">客服：<span class="my_font">联系客服<img src="img/product_detail/kefuf.gif" alt=""/></span></p>
+            <div class="clearfix">
+                <div class="float text-muted">规格：</div>
+                <div class="float-left">
+                    <a href="#" class="btn btn-sm btn-outline-secondary">双核i5/8GB内存/128GB闪存</a>
+                    <a href="#" class="btn btn-sm btn-outline-secondary">双核i5/8GB内存/256GB闪存</a>
+                    <a href="#" class="btn btn-sm btn-outline-secondary">定制款：双核i7/8GB内存/128GB闪存</a>
+                    <a href="#" class="btn btn-sm btn-outline-secondary">定制款：双核i7/8GB内存/256GB闪存</a>
+                </div>
+            </div>
+            <div>
+                <p class="text-muted pt-3 mb-0">数量：</p>
+                <div class="d-flex justify-content-around align-items-center dddd">
+                    <button class="text-dark font-weight-bold border-0">-</button>
+                    <input class="my_input_width" type="text" value="1"/>
+                    <button class="font-weight-bold border-0">+</button>
+                </div>
+            </div>
+            <div class="d-flex pt-3">
+                <button class="w-25 text-primary btn1">立即购买</button>
+                <button class="w-25 bt1"><img src="img/product_detail/product_detail_img7.png" alt=""/>加入购物车</button>
+                <button id="bt2"><img src="img/product_detail/product_detail_img6.png" alt=""/><br/>收藏</button>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <iframe src="foot.html" frameborder="0" scrolling="no" class="my_footer"></iframe>
+</footer>
+</body>
+</html>
